@@ -11,7 +11,7 @@ body * {
 
 #header {
   padding: 0;
-  background: #111;
+  background: #333333;
   color: #fff;
   margin-bottom: 2em;
 }
@@ -53,7 +53,7 @@ body * {
 
 #header .taglist-wrapper {
   width: 100%;
-  background: #ffd00e;
+  background: #3CD2B1;
   padding: 0;
 }
 
@@ -77,7 +77,7 @@ body * {
   transition: none;
 }
 #header ul.taglist li:hover {
-  background: #545454;
+  background: #333333;
   cursor: pointer;
 }
 #header ul.taglist li:hover a {
@@ -145,7 +145,7 @@ body * {
   color: #111;
 }
 
-#articles .post a, 
+#articles .post a,
 #articles .post a:visited{
   text-decoration: none;
 }
@@ -231,6 +231,11 @@ body * {
   line-height: 1.7;
 }
 
+.sidebox.about .sidebox-content img {
+  width: 200px;
+  height: 200px;
+}
+
 .sidebox .sidebox-content {
   padding: 1em;
 }
@@ -271,7 +276,7 @@ body * {
 }
 
 .social-item.home {
-  background: #ffd00e;
+  background: #3CD2B1;
 }
 
 .social-item.github {
