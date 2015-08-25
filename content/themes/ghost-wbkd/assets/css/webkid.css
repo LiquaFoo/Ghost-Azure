@@ -231,7 +231,7 @@ body * {
   line-height: 1.7;
 }
 
-.sidebox.about .sidebox-content img {
+.sidebox.about .sidebox-content img .img{
   width: 200px;
   height: 200px;
 }
