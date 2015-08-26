@@ -90,7 +90,7 @@
             "properties": {
                 "appSettings": [{
                     "name": "websiteUrl",
-                    "value": ""
+                    "value": "www.inferredcoding.com"
                 }, {
                     "name": "emailService",
                     "value": "[parameters('Email Service')]"
