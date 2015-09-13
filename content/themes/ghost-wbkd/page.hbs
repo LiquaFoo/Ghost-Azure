@@ -5,8 +5,6 @@
 
 {{! Everything inside the #post tags pulls data from the post }}
 {{#post}}
-<link rel="stylesheet" href="/assets/css/prism.css">
-<script src="/assets/js/prism.js"></script>
 
 {{> "header"}}
 
@@ -19,7 +17,7 @@
             <img src="{{image}}" class="post-image"/>
         </div>
         {{/if}}
-    
+
     <article class="{{post_class}}">
 
         <header class="post-header">
